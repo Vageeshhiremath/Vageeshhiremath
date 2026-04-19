@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my problem-solving skills in Data Structures and algorithms.<br>I'm looking to collaborate beginner-friendly open-source contributions.<br>i'm looking for help with real-world project building.<br>i'm currently learning C programming ,Python with libraries.<br>C, Python , HTML , CSS, javascript,React<br>I enjoy turning ideas into real projects and continuously improving my coding skills 
+I'm currently working on improving my problem-solving skills in Data Structures and algorithms.<br>i'm looking for help with real-world project building.<br>i'm currently learning C programming ,Python with libraries.<br>C, Python , HTML , CSS, javascript,React<br>I enjoy turning ideas into real projects and continuously improving my coding skills 
 
 
 ## 🌐 Socials:
